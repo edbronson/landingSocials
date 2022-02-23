@@ -1,0 +1,76 @@
+
+body {
+    background-image: url("./img/congresso.png");
+    
+}
+
+main {
+    display: flex;
+    padding: 200px 500px 200px 500px;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 490px;
+}
+
+.txt {
+    color: white;
+    margin: 0 400px 0 0;
+
+}
+
+.txt__subtitulo {
+    padding: 0 0 5px 0;
+}
+
+div {
+    margin-top: 100px;
+}
+
+div button {
+    padding: 0.5rem 4rem;
+    background-color: transparent;
+    color: white;
+    border-radius: 2rem;
+    border: 1px solid #ffffff;
+    font-size: 1rem;
+    margin-bottom: 14px;
+    width: 200px;
+    transition: 0.3s ease-in;
+    cursor: pointer;
+}
+
+div button:hover {
+    background-color: #edcc6a;
+}
+
+
+/*
+
+.btn__youtube {
+    
+   
+}
+
+
+.btn__tiktok {
+    
+  
+}
+
+.btn__facebook {
+    
+  
+}
+
+.btn__instagram {
+    
+
+}
+
+.btn__twitter {
+    
+ 
+}
